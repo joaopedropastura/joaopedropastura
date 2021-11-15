@@ -23,7 +23,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/>
     
+    
 </p>
+ 
+ ## 42sp:
+ 
+ <p medal="lala">
+    <img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" alt"project done"/>
+    <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linee.png" alt"project done"/>
+    </p>
 
 <p>
 <a href="https://github.com/jpsoares01">
