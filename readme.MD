@@ -1,8 +1,8 @@
 # João Pedro Soares Rodrigues Pastura
 
 ## Hi there 👋
-
-<img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif" min-width="450px" max-width="500px" width="450px" align="right">
+<!-- 
+<img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif" min-width="450px" max-width="500px" width="450px" align="right"> -->
 
 - 🌱 I’m currently learning C;
 - 🔭 I’m currently looking for job;
