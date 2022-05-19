@@ -1,13 +1,13 @@
-# João Pedro Soares Rodrigues Pastura
+<h3 align="center"> Hi there 🖖👽</h3>
 
-## Hi there 👋
+<h3 align="center">I'm João Pedro Soares! </h3>
+<br>
 <!-- 
 <img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif" min-width="450px" max-width="500px" width="450px" align="right"> -->
 
-- 🌱 I’m currently learning C;
-- 🔭 I’m currently looking for job;
-- 💬 Ask me about everything, if i don't know i'll search 😉;
-- 📫 Feel free to reach me by:
+- 👨‍🚀 I'm studying Software Engineering at [École 42](https://42.fr/en/homepage/) - [São Paulo](https://www.42sp.org.br/) and Bachelor’s degree in Information Systems at [UTFPR](http://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-sistemas-de-informacao)
+- 🛸 I’m currently learning `.c`;
+- 🕵🏼‍♂️ I'm currently looking for an opportunity in the job market too :)
 
  ## Feel free to reach me by:
 
