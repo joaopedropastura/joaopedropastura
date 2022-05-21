@@ -16,9 +16,13 @@
  
  ## 42sp:
  
- <p medal="lala">
+ <p medal="projects">
     <img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" alt"project done"/>
     <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linee.png" alt"project done"/>
+    <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" alt"project done"/>
+    <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" alt"project done"/>   
+    <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt"project done"/>
+    <img src=" https://game.42sp.org.br/static/assets/achievements/so_longe.png" alt"project done"/>
     </p>
 
 <p>
