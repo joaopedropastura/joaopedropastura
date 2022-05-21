@@ -21,9 +21,8 @@
     <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linee.png" alt"project done"/>
     <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" alt"project done"/>
     <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt"project done"/>
-    <img src=" https://game.42sp.org.br/static/assets/achievements/so_longe.png" alt"project done"/>
+    <img src="https://game.42sp.org.br/static/assets/achievements/so_longe.png" alt"project done"/>
     </p>
-
 <p>
 <a href="https://github.com/jpsoares01">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsoares01&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
