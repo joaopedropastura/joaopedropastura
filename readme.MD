@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%00FF00&size=24&center=true&vCenter=true&lines=Hi++there+U+1F596+U+1F6F8+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%00FF00&size=24&center=true&vCenter=true&lines=Hi++there+%3AD)](https://git.io/typing-svg)
 
 <h3 align="center"> Hi there 🖖👽</h3>
 
