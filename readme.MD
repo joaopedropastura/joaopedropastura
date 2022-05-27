@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F45C44&size=25&center=true&vCenter=true&lines=Hello!++Nice+to+meet+you+%3AD)](https://git.io/typing-svg)
+
 <h3 align="center"> Hi there 🖖👽</h3>
 
 <h3 align="center">I'm João Pedro Soares! </h3>
