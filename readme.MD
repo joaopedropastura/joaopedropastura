@@ -6,7 +6,7 @@
 <img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif" min-width="450px" max-width="500px" width="450px" align="right"> -->
 
 - 👨‍🚀 I'm studying Software Engineering at [École 42](https://42.fr/en/homepage/) - [São Paulo](https://www.42sp.org.br/) and Bachelor’s degree in Information Systems at [UTFPR](http://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-sistemas-de-informacao)
-- 🛸 I’m currently learning `.c`;
+- 🛸 I’m currently learning `.c` `.js`;
 - 🕵🏼‍♂️ I'm currently looking for an opportunity in the job market too :)
 
  ## Feel free to reach me by:
