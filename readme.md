@@ -16,7 +16,7 @@
  
  ## 42sp:
  
- <p medal="projects">
+<p medal="projects">
     <img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" alt"project done"/>
     <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linee.png" alt"project done"/>
     <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" alt"project done"/>
@@ -24,11 +24,11 @@
     <img src="https://game.42sp.org.br/static/assets/achievements/so_longe.png" alt"project done"/>
     </p>
 <p>
-<a href="https://github.com/jpsoares01">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsoares01&langs_count=3&hide=HTML,JavaScript&theme=tokyonight&hide_langs_below=1" />
-</a>
 
-<a href="https://github.com/jpsoares01">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpsoares01&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
+ 
+<img align="center" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsoares01&langs_count=4&hide=HTML,CSS&theme=tokyonight&hide_langs_below=1" />
+
+
+<img align="center" height="220" src="https://github-readme-stats.vercel.app/api?username=jpsoares01&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
+
 </p>
